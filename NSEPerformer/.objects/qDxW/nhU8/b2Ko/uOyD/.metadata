@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Prev. Close",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "uOyDfBZvrUmlpJmjacTMmw",
+  "Reference": "KOVMiSdQK0iHQ74-DF69kQ/uOyDfBZvrUmlpJmjacTMmw",
+  "ParentRef": "KOVMiSdQK0iHQ74-DF69kQ/b2KoNrT_QECeR_ePh69sHA",
+  "Created": "2026-04-06T05:35:33.7790526Z",
+  "Updated": "2026-04-06T05:35:33.7790526Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.25.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

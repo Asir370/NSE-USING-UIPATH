@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pLiVl0Wn8k6vEJstt-UlJA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nseindia.com" CVScreenId="16f4b9f4-78ab-4827-ab2a-f2a1f6ad94c3" CvElementArea="408, 187, 484, 53" CvType="InputBox" DesignTimeRectangle="412, 188, 429, 50" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="00efd402-f0fd-4e30-ac21-a1f9b78d1594" ScopeSelectorArgument="&lt;html app='chrome.exe' title='NIFTY 50 - NSE India' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c273c9f03504e8d618982c9911b92d8e.jpg" xmlns="">08uIivSs2JUiK405UTpXWcw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

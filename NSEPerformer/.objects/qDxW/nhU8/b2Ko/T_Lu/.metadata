@@ -1,0 +1,14 @@
+﻿{
+  "Name": "52 Week High (03-Feb-20…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "T_LukyD9WUOOGf9b6xHRgw",
+  "Reference": "KOVMiSdQK0iHQ74-DF69kQ/T_LukyD9WUOOGf9b6xHRgw",
+  "ParentRef": "KOVMiSdQK0iHQ74-DF69kQ/b2KoNrT_QECeR_ePh69sHA",
+  "Created": "2026-04-06T05:42:03.6959913Z",
+  "Updated": "2026-04-06T05:42:03.6959913Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.25.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

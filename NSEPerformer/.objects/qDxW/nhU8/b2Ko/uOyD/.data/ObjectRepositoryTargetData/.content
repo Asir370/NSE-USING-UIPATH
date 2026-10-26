@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FhTS4baC0U2aMNMi-tjzDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nseindia.com/get-quote/equity/INFY/Infosys-Limited" CVScreenId="56f2fb84-5aa6-43ef-9658-02aa01ec4f47" CvType="AnyWordGroup" DesignTimeRectangle="131, 732, 94, 34" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl class='symbol-val' parentid='quote-tabs-tabpane-equity' tag='DIV' type='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;" Guid="45cdeca4-81ca-4d81-8928-d177bc17d241" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Infosys Limited Share Price Today, Stock Price, Live NSE News, Quotes, Tips - NSE India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="56f2fb84-5aa6-43ef-9658-02aa01ec4f47" CvTextArea="129, 702, 97, 19" CvTextArgument="Prev. Close" CvType="Text" DesignTimeRectangle="131, 699, 94, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='symbol-label' parentid='quote-tabs-tabpane-equity' tag='DIV' type='' aaname='Prev. Close' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Prev. Close' /&gt;" Guid="b8a4cd8c-a94d-4ec2-bdf8-5514bd80bda7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e54764e24f4a6491b62059bc7e451ac3.png" xmlns="">0td8TM_RjUEesGbMDlfeTbQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

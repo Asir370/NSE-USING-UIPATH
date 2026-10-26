@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t9932TDZO0OjfVKNq43jaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nseindia.com/get-quote/equity/INFY/Infosys-Limited" CVScreenId="1761766b-193b-4cbe-b5fe-e8d7596ccec7" CvType="AnyWordGroup" DesignTimeRectangle="704, 627, 255, 28" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='dashboard' tag='DIV' type='' class='col-12 medium fw-semibold mb-0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="e1d66372-8c87-4fe9-af2b-b3bc27102728" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Infosys Limited Share Price Today, Stock Price, Live NSE News, Quotes, Tips - NSE India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="704, 571, 255, 56" FuzzySelectorArgument="&lt;webctrl aaname='52 Week High ' parentid='dashboard' tag='DIV' type='' class='col-12 medium mb-0  custom-15-px' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='52 Week High (03-Feb-2026)' /&gt;" Guid="0f258a45-2ec6-4443-975b-6e89214a562d" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6654aa667b448f0047962362c7e77448.png" xmlns="">0NcpgyflbiUm0VXNNKLusmQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

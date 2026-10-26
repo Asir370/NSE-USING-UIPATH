@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZvHxIhdbu0y4Y5P-sgCGgg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nseindia.com/get-quote/equity/INFY/Infosys-Limited" CVScreenId="e5b6a976-a4db-4122-9bb4-64fba3d9ca10" CvType="AnyWordGroup" DesignTimeRectangle="393, 781, 255, 28" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='dashboard' tag='DIV' type='' class='col-12 medium fw-semibold mb-0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="fe019630-941d-49ff-ad11-9f75edd60ec8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Infosys Limited Share Price Today, Stock Price, Live NSE News, Quotes, Tips - NSE India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e5b6a976-a4db-4122-9bb4-64fba3d9ca10" CvTextArea="405, 757, 106, 17" CvTextArgument="Face Value" CvType="Text" DesignTimeRectangle="393, 753, 255, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Face Value' parentid='dashboard' tag='DIV' type='' class='col-12 medium mb-0  custom-15-px' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Face Value' /&gt;" Guid="9b7cc1b6-0e9e-4a54-a12e-fb6671709980" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cd85a93ea0ce3dc8d9f9f723cb6017b5.png" xmlns="">0ttnNLlI_yUmQvbUYB7ClSQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
